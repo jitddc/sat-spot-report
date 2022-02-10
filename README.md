@@ -1,0 +1,1 @@
+# sat-spot-report
